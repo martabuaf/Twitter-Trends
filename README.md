@@ -66,7 +66,7 @@ Visualizar la información en un mapa folium que represente a modo de pop-up el 
 ### Paso 7: Ampliación
 Analizar la actividad en Twitter sobre el Mundial. Para ello tomamos como valores a medir la cantidad y frecuencia con la que se usan los hashtags oficiales en cada país en un mapa Choropleth. Y una línea de evolución temporal de la actividad en gráficos Plotly. 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/122131317/223226155-c3ae4df8-217e-43aa-b35e-269998c3dcd0.png" width="350"/>
+<img src = "https://user-images.githubusercontent.com/122131317/223226155-c3ae4df8-217e-43aa-b35e-269998c3dcd0.png" width="400"/>
 </p>
 
 <p>Nota: Los hashtags estan disponibles desde el 17 de noviembre hasta el 31 de Diciembre de 2022.</p>
