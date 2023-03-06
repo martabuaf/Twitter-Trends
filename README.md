@@ -66,3 +66,9 @@ Analizar la actividad en Twitter sobre el Mundial. Para ello tomamos como valore
 </p>
 
 <p>Nota: Los hashtags estan disponibles desde el 17 de noviembre hasta el 31 de Diciembre de 2022.</p>
+
+<h2 style="text-align:center;">Esperamos que te haya gustado!! 😄</h2>
+
+## Autores: 
+<p>Marta Búa Fernández ➡️ Ir al perfil de<a href="https://www.linkedin.com/in/martabuaf" target = "_blank"> LinkedIn </a></p> 
+<p>Laura Arufe Jorge ➡️ Ir al perfil de<a href="https://www.linkedin.com/in/laura-arufe-aab862247" target = "_blank"> LinkedIn </a></p>
