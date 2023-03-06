@@ -1,4 +1,8 @@
 <h1> Twitter : Tendencias mundiales</h1>
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/122131317/223227256-59d40c7f-cf60-42b1-98aa-c8357f9b84d8.png" width="150"/>
+</p>
+
 <p>En este proyecto vamos a analizar y visualizar las tendencias mundiales en la red social Twitter. 
 Estas tendencias aparecen en la categoría "What's happening". Para ello crearemos una ETL (Extracción, Transformación, Carga) que haga una llamada a la api de Twitter y cargue los datos a una base de datos local en AirTable. 
 <p>
@@ -33,8 +37,7 @@ Almacenar esta información en una base de datos local como AirTable. El nombre 
     </tr>
     <tr>
         <td>Fecha</td>
-        <td>str</td>![World_Cup_hashtags](https://user-images.githubusercontent.com/122131317/223225946-34023102-1bc5-47c0-8d8d-b231dc2af965.png)
-
+        <td>str</td>
     </tr>
     <tr>
         <td>Url</td>
