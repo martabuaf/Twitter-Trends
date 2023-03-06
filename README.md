@@ -59,6 +59,10 @@ Extraer los datos totales de AirTable y transformarlos a un DataFrame para que s
 ### Paso 6: Visualizaciones
 Visualizar la información en un mapa folium que represente a modo de pop-up el Top 10 de tendencias en cada país.
 
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/122131317/223232298-f78388ba-6c72-48ca-b674-082bdc7b7221.png" width="900"/>
+</p>
+
 ### Paso 7: Ampliación
 Analizar la actividad en Twitter sobre el Mundial. Para ello tomamos como valores a medir la cantidad y frecuencia con la que se usan los hashtags oficiales en cada país en un mapa Choropleth. Y una línea de evolución temporal de la actividad en gráficos Plotly. 
 <p align="center">
@@ -66,6 +70,10 @@ Analizar la actividad en Twitter sobre el Mundial. Para ello tomamos como valore
 </p>
 
 <p>Nota: Los hashtags estan disponibles desde el 17 de noviembre hasta el 31 de Diciembre de 2022.</p>
+
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/122131317/223232430-8c03c4ee-c875-4281-863e-8293dd9aed11.png" width="900"/>
+</p>
 
 <h2 style="text-align:center;">Esperamos que te haya gustado!! 😄</h2>
 
